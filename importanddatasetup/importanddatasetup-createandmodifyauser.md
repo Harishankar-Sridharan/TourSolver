@@ -13,7 +13,7 @@ To begin creating or modifying a user, follow these steps:
 1. From the homepage, go to the configuration.
 2. Click on Manage Users.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_00–0_to_09.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 3. Click on Actions.
 4. Click on Add
@@ -45,7 +45,7 @@ This is necessary when onboarding a new employee who requires a unique login ID 
 1. After navigating to the Add screen, confirm you are creating a user from scratch.
 2. First, let's see how to create the user from the scratch. Click on OK – Begins new user creation.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_0_to_20–0_to_27.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 3. Fill in Access Details: In the Access section, enter the required information:
 
@@ -61,16 +61,16 @@ This is necessary when onboarding a new employee who requires a unique login ID 
 
 **Tip**: You can toggle both the Web Access and Mobile Access options at the same time if the user requires both. ⚠ Warning (Password Requirement): The password must contain 8 characters, including one numeric character and one special character.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_09–1_to_18.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 5. Define Roles and Rights: In the Roles and Rights section, enable all necessary roles, such as administrator, optimization, or depot. In the roles and rights, enable all the roles and rights such as administrator, optimization, depot etc.
 6. Assign Agencies: In the Agencies section, click on the agencies you need to assign, and then Click the right arrow to move them into the assigned list.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_39–1_to_55.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 7. Plan Slot Time: In the Planning section, Click the day and timing to set the desired slot time, and then click update.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_1_to_59–2_to_08.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 8. Schedule Days Off (Optional): In the Days Off section, you can plan future time off:
 
@@ -78,13 +78,13 @@ This is necessary when onboarding a new employee who requires a unique login ID 
 * Enter the from date and the to date for the day off.
 * Click on Add
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_2_to_10–2_to_31.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 9. Save the User: After filling in all required information, Click on Save to finalize the creation.
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
-&#x20; Expected _Outcome:_ User has been created successfully
+Expected _Outcome:_ User has been created successfully
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
@@ -100,9 +100,7 @@ You can easily update an existing user's information, such as their roles, agenc
 3. Modify Information: Go through the different sections (Access, Roles and Rights, Planning, etc.) and modify the existing information as needed.
 4. Save Changes: Once you have updated the necessary information, Click on Save to complete the modification.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-CreateandModifyaUser_timestamp_3_to_26–3_to_30.gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### 5. Productivity Tips
 

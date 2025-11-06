@@ -37,17 +37,21 @@ This first crucial step verifies your identity and secures your new account. Use
 
 If you already have the credentials, you can log in and skip this guide If you donʼt have an account, click Sign up now.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
-1. Enter the Valid email address.&#x20;
+1. Enter the Valid email address.
 2. Click on Send Verification code
 3. Type the Verification code received in your email and click on Verify code
 
-<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_0_to_40–0_to_41.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Expected Outcome**: Upon successful verification, a confirmation message appears
 
 stating, _“Your email has been verified.”_
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
@@ -65,11 +69,11 @@ Now you will configure additional details to set up your account.
 * A number
 * A special character
 
-3. &#x20;Click on Create to proceed.
+3. Click on Create to proceed.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
-
 
 ### Completing the Onboarding Page
 
@@ -77,9 +81,11 @@ After creating your profile, you will automatically reach the Onboarding Page to
 
 1. Enter the Company name, Departure address, and Activity.
 
-<figure><img src="../.gitbook/assets/GettingStarted-SignupProcess_timestamp_2_to_08–2_to_23.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 2. Review the End user agreement and click the Check box.
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
@@ -109,4 +115,3 @@ To ensure your newly created credentials work correctly, it is recommended pract
 
 1. Log-out : Log out of the system.
 2. Log-in: Log back in using the email and password you just created to verify your credentials are functional.
-

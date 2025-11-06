@@ -24,11 +24,9 @@ If you are unsure how to format your Excel file, you can download a sample templ
 1. Click on Download.
 2. The Excel file containing sample data will be downloaded.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_0_to_14–0_to_18.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 💡 Tip : Always use the sample data provided if you are new to the system structure. This often reduces potential mapping errors later on!
-
-
 
 ***
 
@@ -63,7 +61,7 @@ You need to tell the system which columns in your spreadsheet correspond to the 
 
 * If a field is currently mapped, you may choose to ignore it.
 
-<figure><img src="../.gitbook/assets/ImportandDataSetup-ImportofDeliveries_timestamp_1_to_58–2_to_00.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 * Click on show all to view all possible field options.
 

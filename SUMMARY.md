@@ -14,5 +14,3 @@
 * [OperationsandRouteManagement](operationsandroutemanagement/README.md)
   * [OptimizeyourDeliveries](operationsandroutemanagement/optimizeyourdeliveries/README.md)
     * [OperationsandRouteManagement-OptimizeyourDeliveries](OperationsandRouteManagement/OptimizeyourDeliveries/OperationsandRouteManagement-OptimizeyourDeliveries.md)
-  * [ShareaTourwiththeMobileApp](operationsandroutemanagement/shareatourwiththemobileapp/README.md)
-    * [OperationsandRoutemanagement-ShareaTourwiththeMobileApp](OperationsandRouteManagement/ShareaTourwiththeMobileApp/OperationsandRoutemanagement-ShareaTourwiththeMobileApp.md)
